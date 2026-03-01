@@ -16,7 +16,7 @@ This project is created for people who like to read books offline, some books on
 
 ## 🚀 Usage
 1. Install the Tampermonkey extension.
-2. Copy the source code from `justice_collector.user.js` into a new script.
+2. Copy the source code from `Data_Scraper.user.js` into a new script.
 3. Access Chapter 1 and let the system run automatically.
 4. Type `downloadFile()` in the Console to get the full TXT file.
 
@@ -42,7 +42,7 @@ Cào dữ liệu truyện của các web trả phí và tải file raw .txt
 
 ## 🚀 Cách sử dụng
 1. Cài đặt extension Tampermonkey.
-2. Copy mã nguồn file `justice_collector.user.js` vào script mới.
+2. Copy mã nguồn file `Data_Scraper.user.js` vào script mới.
 3. Truy cập chương 1 và để hệ thống tự vận hành.
 4. Gõ `downloadFile()` trong Console để lấy bản Full TXT.
 
